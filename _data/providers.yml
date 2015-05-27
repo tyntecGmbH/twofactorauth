@@ -301,3 +301,10 @@ providers:
     img: yubico.png
     hardware: Yes
     software: Yes
+
+  - name: tyntec
+    url: http://tyntec.com/products/otp-sms
+    img: tyntec.png
+    sms: Yes
+    phone: Yes
+ 
